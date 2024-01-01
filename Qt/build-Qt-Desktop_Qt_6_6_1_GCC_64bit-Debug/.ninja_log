@@ -1,0 +1,10 @@
+# ninja log v5
+0	4	0	/home/cooper/side-projects/cpp-gui-exploration/build-Qt-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/cmake.verify_globs	3e67394a546beb96
+0	272	1704074957730480134	Qt_autogen/timestamp	c94aed27b5a1bbdd
+0	272	1704074957730480134	Qt_autogen/mocs_compilation.cpp	c94aed27b5a1bbdd
+0	272	1704074957730480134	/home/cooper/side-projects/cpp-gui-exploration/build-Qt-Desktop_Qt_6_6_1_GCC_64bit-Debug/Qt_autogen/timestamp	c94aed27b5a1bbdd
+0	272	1704074957730480134	/home/cooper/side-projects/cpp-gui-exploration/build-Qt-Desktop_Qt_6_6_1_GCC_64bit-Debug/Qt_autogen/mocs_compilation.cpp	c94aed27b5a1bbdd
+272	2170	1704074959615479685	CMakeFiles/Qt.dir/Qt_autogen/mocs_compilation.cpp.o	aaa3b1d4aa61221e
+273	2189	1704074959637146346	CMakeFiles/Qt.dir/mainwindow.cpp.o	36bf2d6c0f14ab2d
+273	2193	1704074959637146346	CMakeFiles/Qt.dir/main.cpp.o	b182a67d3450db3f
+2193	2664	1704074960113812901	Qt	ccc6c25f3a1c2f1a

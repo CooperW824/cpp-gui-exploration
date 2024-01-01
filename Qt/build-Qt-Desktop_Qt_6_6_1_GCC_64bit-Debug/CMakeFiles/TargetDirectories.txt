@@ -1,0 +1,9 @@
+/home/cooper/side-projects/cpp-gui-exploration/build-Qt-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/Qt.dir
+/home/cooper/side-projects/cpp-gui-exploration/build-Qt-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/cooper/side-projects/cpp-gui-exploration/build-Qt-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/cooper/side-projects/cpp-gui-exploration/build-Qt-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/cooper/side-projects/cpp-gui-exploration/build-Qt-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/cooper/side-projects/cpp-gui-exploration/build-Qt-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/cooper/side-projects/cpp-gui-exploration/build-Qt-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/cooper/side-projects/cpp-gui-exploration/build-Qt-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/Qt_autogen_timestamp_deps.dir
+/home/cooper/side-projects/cpp-gui-exploration/build-Qt-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/Qt_autogen.dir

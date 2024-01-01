@@ -8,7 +8,6 @@ I want to explore three different libraries:
 1. GTK+
 1. Dear ImGUI
 
-
 ## With Qt
 Framework I am using is Qt, this exploration will be full explained on my blog
 
@@ -30,3 +29,11 @@ I also needed to make sure I had an account with Qt which you can make for free 
 
 Then you can run the binary with 
 sudo ./qt-unified-linux-x64-4.6.1-online.run
+
+Then when I tried to run QtCreator I ran into:
+qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found.
+
+So I installed 
+sudo apt install qtwayland5
+
+Which fixed the issue
