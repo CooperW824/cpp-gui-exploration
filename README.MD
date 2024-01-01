@@ -37,3 +37,19 @@ So I installed
 sudo apt install qtwayland5
 
 Which fixed the issue
+
+Then after running Qt Creator to Create the Project
+I ran into a CMAKE issue where it couldn't find the Qt files:
+
+Could not find a package configuration file provided by "QT" with any of   the following names:      Qt6Config.cmake     qt6-config.cmake     Qt5Config.cmake     qt5-config.cmake
+
+So I added the following line to the top of my CMake Config:
+
+set(CMAKE_PREFIX_PATH "/opt/Qt/6.6.1/gcc_64/lib/cmake")
+
+Then it couldn't find the xkb and Vulkan Libraries so I added those libraries
+
+sudo apt install libxkbcommon-dev
+sudo apt install vulkan-tools
+sudo apt install libvulkan-dev
+sudo apt install vulkan-validationlayers-dev spirv-tools
