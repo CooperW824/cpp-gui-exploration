@@ -2,7 +2,15 @@
 
 A simple GUI project in C++ the goal is to make a simple calculator app like I did about 4 years ago, but this time in C++ instead of Win-Forms C#
 
-Framework I am using is QT, this exploration will be full explained on my blog
+I want to explore three different libraries:
+
+1. Qt
+1. GTK+
+1. Dear ImGUI
+
+
+## With Qt
+Framework I am using is Qt, this exploration will be full explained on my blog
 
 [My Blog](https://blog.cooperw.tech)
 
